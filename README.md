@@ -24,6 +24,6 @@ The application helps you reach all event service providers in an easy and fast 
 ![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/Screenshot_1626328247.png?raw=true)
 ![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/Screenshot_1626328277.png?raw=true)
 ![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/Screenshot_1626328269.png?raw=true)
-![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/creenshot_1626328263.png?raw=true)
+![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/Screenshot_1626328263.png?raw=true)
 ![screenshot](https://github.com/am3712/Occasions/blob/main/ScreenShots/Screenshot_1626328258.png?raw=true)
 
